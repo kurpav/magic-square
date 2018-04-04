@@ -1,0 +1,21 @@
+{
+  "generator-ngx-rocket": {
+    "version": "4.2.0",
+    "props": {
+      "location": "path",
+      "target": [
+        "web"
+      ],
+      "pwa": true,
+      "ui": "material",
+      "layout": "simple",
+      "auth": false,
+      "lazy": false,
+      "angulartics": false,
+      "appName": "magic-square",
+      "projectName": "magic-square",
+      "packageManager": "npm",
+      "mobile": []
+    }
+  }
+}
